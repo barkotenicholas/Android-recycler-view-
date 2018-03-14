@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">RecyclerandCard</string>
+    <string-array name="country">
+        <item>kenya</item>
+        <item>germany</item>
+        <item>britain</item>
+        <item>index</item>
+        <item>brazil</item>
+        <item>jamaica</item>
+    </string-array>
+
+
+    <string-array name="description">
+        <item>Found in africa</item>
+        <item>was rulded by a dictator</item>
+        <item>Ruled by a queen</item>
+        <item>index isdj</item>
+        <item>good in football</item>
+        <item>Loves smoking weed</item>
+    </string-array>
+</resources>
